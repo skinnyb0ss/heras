@@ -1,0 +1,9 @@
+bot: 
+ token: "Süper Gizli Token"
+ durum: "online" #online idle invisible dnd koyulabilir
+ aktivite: "PLAYING" #PLAYING STREAMING LISTENING WATCHING CUSTOM_STATUS COMPETING 'den biri koyulabilir
+ aktiviteAdı: "Cafex Yazılım | Botclub Özel Bot."
+ sahipler:
+  - "KULLANICI ID 1"
+  - "KULLANICI ID 2"
+ 

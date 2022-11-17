@@ -1,0 +1,16 @@
+const { CommandInteraction } = require('discord.js');
+const { SlashCommandBuilder } = require('@discordjs/builders');
+const {MessageActionRow, MessageSelectMenu} = require('discord.js')
+const Discord = require('discord.js')
+const db = require('quick.db')
+module.exports = { data: new SlashCommandBuilder()
+    .setName("config")
+    .setDescription(`Register Config`),
+	
+    /**
+     * @param { CommandInteraction } interaction 
+     */
+    async execute(interaction) {
+  //Kod Buraya - Bay İlbeycik | Cafex Yazılım
+}
+}
